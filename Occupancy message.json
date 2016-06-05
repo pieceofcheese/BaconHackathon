@@ -1,0 +1,12 @@
+{
+"id":"99ad223d.273cd",
+"type":"function",
+"z":"8fa5f010.2252c",
+"name":"occupancy message",
+"func":"if (msg.payload.data == \"Active\"){\n    msg.payload = \"This is bacon - one of the greatest inventions ever invented by mankind.\"\n    return msg;\n}",
+"outputs":1,
+"noerr":0,
+"x":399,
+"y":203,
+"wires":[["1391f11c.74e17f"]]
+}
