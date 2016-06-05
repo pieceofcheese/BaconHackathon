@@ -1,0 +1,12 @@
+{
+"id":"b6eb369d.e35808",
+"type":"function",
+"z":"8fa5f010.2252c",
+"name":"Reduce JSON return",
+"func":"msg.payload = msg.payload.response.docs[1];\nmsg.payload = msg.payload.title;\nreturn msg;",
+"outputs":1,
+"noerr":0,
+"x":837,
+"y":335,
+"wires":[["1391f11c.74e17f","51da12c1.18f36c"]]
+}
