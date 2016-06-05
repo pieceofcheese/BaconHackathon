@@ -1,0 +1,12 @@
+{
+"id":"c969c833.55b538",
+"type":"http request",
+"z":"8fa5f010.2252c",
+"name":"Ask question to Watson",
+"method":"GET",
+"ret":"txt",
+"url":"",
+"x":547,
+"y":337,
+"wires":[["8782dd12.6e0cd"]]
+}
