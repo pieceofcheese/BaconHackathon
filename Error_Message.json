@@ -1,0 +1,12 @@
+{
+"id":"1bad61a6.c0dd9e",
+"type":"function",
+"z":"8fa5f010.2252c",
+"name":"error message",
+"func":"msg.payload = \"The bacon gods have not yet determined an answer to your question.\"\nreturn msg;",
+"outputs":1,
+"noerr":0,
+"x":1148,
+"y":387,
+"wires":[["51da12c1.18f36c","1391f11c.74e17f"]]
+}
