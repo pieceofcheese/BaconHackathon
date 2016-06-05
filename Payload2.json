@@ -1,0 +1,12 @@
+{
+"id":"92a679b3.526b18",
+"type":"debug",
+"z":"8fa5f010.2252c",
+"name":"",
+"active":false,
+"console":"false",
+"complete":"payload",
+"x":352,
+"y":272,
+"wires":[]
+}
