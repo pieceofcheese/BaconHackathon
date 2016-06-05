@@ -1,0 +1,12 @@
+{
+"id":"93d3ac9.adb0c5",
+"type":"function",
+"z":"8fa5f010.2252c",
+"name":"Contact message",
+"func":"if (msg.payload.data == \"Open\"){\n    msg.payload = \"Welcome to the National Museum of Bacon\"\n    return msg;\n}",
+"outputs":1,
+"noerr":0,
+"x":352,
+"y":105,
+"wires":[["1391f11c.74e17f"]]
+}
