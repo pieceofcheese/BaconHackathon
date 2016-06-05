@@ -1,0 +1,19 @@
+{
+"id":"f5752287.c0d728",
+"type":"Jilia Device",
+"z":"8fa5f010.2252c",
+"jiliaName":"",
+"jiliaDevice":"aa5a356f-498b-4948-b5b2-4a4f64b6e465",
+"jiliaDeviceType":"contact",
+"jiliaMonitor":"ws://localhost:1337/servers/e9e6cd80-982f-4bb3-b53f-0772371fe0f5/events?topic=contact%2Faa5a356f-498b-4948-b5b2-4a4f64b6e465%2Fstatus",
+"jiliaMonitorFilter":"any",
+"jiliaAction":"",
+"jiliaActionField0":"",
+"jiliaActionField1":"",
+"jiliaActionField2":"",
+"jiliaActionField3":"",
+"jiliaActionField4":"",
+"x":149,
+"y":128,
+"wires":[["93d3ac9.adb0c5","55a930ef.e732c"]]
+}
