@@ -1,0 +1,19 @@
+{
+"id":"13a08d75.ba0b83",
+"type":"Jilia Device",
+"z":"8fa5f010.2252c",
+"jiliaName":"",
+"jiliaDevice":"635b5e15-aedb-4571-8498-70da75a19979",
+"jiliaDeviceType":"occupancy",
+"jiliaMonitor":"ws://localhost:1337/servers/e9e6cd80-982f-4bb3-b53f-0772371fe0f5/events?topic=occupancy%2F635b5e15-aedb-4571-8498-70da75a19979%2Fmotion",
+"jiliaMonitorFilter":"any",
+"jiliaAction":"",
+"jiliaActionField0":"",
+"jiliaActionField1":"",
+"jiliaActionField2":"",
+"jiliaActionField3":"",
+"jiliaActionField4":"",
+"x":164,
+"y":212,
+"wires":[["92a679b3.526b18","99ad223d.273cd"]]
+}
