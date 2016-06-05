@@ -1,0 +1,12 @@
+{
+"id":"a7b81752.624b08",
+"type":"function",
+"z":"8fa5f010.2252c",
+"name":"create url",
+"func":"var q = msg.payload;\nmsg.url = \"https://a2f71a4a-71ee-421c-990b-d656991209bb:oPFQJS3uczbY@gateway.watsonplatform.net/retrieve-and-rank/api/v1/solr_clusters/scefdd3677_2383_4b74_a09d_eb710cc37e84/solr/hack_collection/select?q=\" + q + \"&wt=json&fl=id,title\";\nreturn msg;",
+"outputs":1,
+"noerr":0,
+"x":321,
+"y":341,
+"wires":[["c969c833.55b538","b3712a7c.b77508"]]
+}
